@@ -1,5 +1,7 @@
 ### GuiiuG
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Soutenir-%E2%98%95-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mister.guiiug)
+
 Je construis une **famille d'applications web installables** : des outils du
 quotidien — santé, sport, jeux, famille, organisation — qui s'installent depuis
 le navigateur, sans passer par un magasin d'applications. La plupart continuent
@@ -22,7 +24,7 @@ fois le soit partout :
 
 #### Soutenir
 
-[M'offrir un café](https://buymeacoffee.com/mister.guiiug)
+[![Buy Me A Coffee](https://img.shields.io/badge/M%27offrir%20un%20caf%C3%A9-%E2%98%95-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mister.guiiug)
 
 <!--
 POURQUOI CE README NE LISTE PAS LES APPLICATIONS. La liste vit dans le
