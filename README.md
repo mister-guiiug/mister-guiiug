@@ -20,7 +20,7 @@ fois le soit partout :
 - [**pwa-starter-kit**](https://github.com/mister-guiiug/pwa-starter-kit) — le
   squelette d'une nouvelle application
 - [**parc-dashboard**](https://mister-guiiug.github.io/parc-dashboard/) —
-  l'état de tous les dépôts, relevé chaque nuit
+  l'état de tous les dépôts, relevé plusieurs fois par jour
 
 #### Soutenir
 
